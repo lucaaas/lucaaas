@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/lucaaas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaas&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaaas&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucaaas&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaaas&theme=dark"/>
 </div>
   
 <div style="display: inline_block; margin-top:10px"><br>
