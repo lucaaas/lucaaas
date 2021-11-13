@@ -1,13 +1,12 @@
 ## Hello World :blush: :v: I'm Lucas Silva, Developer and futurely Software Engineer! :computer:
 
-<div>
+<div align="center" style="display: inline_block;">
   <a href="https://github.com/lucaaas">
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaas&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-    <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaaas&theme=dark"/>
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaas&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaaas&theme=dark"/>
 </div>
   
-<div style="display: inline_block; margin-top:100px"><br>
+<div style="display: inline_block; margin-top:10px"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
