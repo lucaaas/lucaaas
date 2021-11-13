@@ -1,6 +1,6 @@
 ## Hello World :blush: :v: I'm Lucas Silva, Developer and futurely Software Engineer! :computer:
 
-<div align="center" style="display: inline_block;">
+<div align="center">
   <a href="https://github.com/lucaaas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaaas&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaaas&theme=dark"/>
