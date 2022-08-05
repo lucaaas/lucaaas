@@ -1,4 +1,4 @@
-## Hello World :blush: :v: I'm Lucas Silva, Developer and futurely Software Engineer! :computer:
+## Hello World :blush: :v: I'm Lucas Silva, Developer and, soon, Software Engineer! :computer:
 
 <div align="center">
   <a href="https://github.com/lucaaas">
